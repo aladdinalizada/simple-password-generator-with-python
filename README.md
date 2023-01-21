@@ -8,5 +8,8 @@ As a first step, let’s import the secrets module. This module is built into th
 
 ```
 import secrets
-
+```
+Let’s also import Python’s built-in string module:
+```
+import string
 ```
